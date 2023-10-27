@@ -1,5 +1,5 @@
 # 📖 Educations
 
-- 2021.09 - 2024.03, Master, Zhejiang University, Hangzhou.
+- 2022.09 - Present, Ph.D Student, Zhejiang University, Hangzhou.
 
-- 2017.09 - 2021.06, Undergraduate, Shandong Univeristy, Jinan.
+- 2018.09 - 2022.06, Undergraduate, Zhejiang Univeristy, Hangzhou.

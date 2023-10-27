@@ -1,12 +1,10 @@
 # 🎖 Honors and Awards
-- Excellent Graduate, Shandong Province (2021), Top 1%.
-- Outstanding Student Cadres (2017-2021 in Shandong University and 2022 in Zhejiang University), Top 1%.
-- Academic Scholarship (2017-2021 in Shandong University and 2022 in Zhejiang University), Top3%.
-- Outstanding Graduate Student & Triple Excellence Graduate Student(2022) in Zhejiang University.
-- First Prize (Meritorious Winner) in American Mathematical Modeling Competition (2019), Top 7% worldwide.
-- First Prize of National Mathematical Modeling Competition in Shandong Province (2018).
+- Excellent Graduate, Zhejiang Province (2022)
+- National Scholarships 2020
+- National Scholarships 2019
+- Zhejiang University First-class Scholarships (2019, 2020, 2021)
 
 # 💬 Professional Services
 
-- Conference Reviewer:  ARR 2023, ICCV 2023, ACL 2023
-- Assist to Review: KDD 2022, TNNLS 2022, TMM 2022, TMM 2023
+- Conference Reviewer: ICCV 2023, ACM-MM 2023，EMNLP2023
+- Assist to Review: NeurIPS 2023, CVPR 2022, CVPR 2023, ACM-MM 2022, SIGIR 2022, TMM, TNNLS
