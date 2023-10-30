@@ -32,7 +32,7 @@ redirect_from:
 <br />
 <br />
 <div style="text-align: center; line-height: 100px">
-<a href='https://clustrmaps.com/site/1bv5z'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=1MH_l0enQfXhHTai5k9Xy_9KqVmsp5G9l1SJLsFffwI'/></a>
+<a href="https://mapmyvisitors.com/web/1bvi9" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=6ifJ0N2S6FVcdRDwfR_wSlW5gbCr0N9-Jxgb3ZqJjPs&cl=ffffff"></a>
 </div>
 <br />
 <br />
