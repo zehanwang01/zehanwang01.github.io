@@ -16,7 +16,7 @@
 - **Academic / Industry Impact**: Our code and pre-trained models are released at [![](https://img.shields.io/github/stars/MCR-PEFT/Ex-MCR?style=social&label=Code+Stars)](https://github.com/MCR-PEFT/Ex-MCR), which provides state-of-the-art unified 3D-image-text-audio representations.
 </div>
 </div>
-
+![img_1.png](img_1.png)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/chat3d.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,7 +35,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding.](https://arxiv.org/abs/2307.09267) **Zehan Wang**, Haifeng Huang, Yang Zhao, Linjun Li, Xize Cheng, Yichen Zhu, Aoxiong Yin, Zhou Zhao **ICCV 2023**
