@@ -17,8 +17,8 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/chat3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">![img.png](img.png)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/chat3d.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 - [Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes.](https://arxiv.org/abs/2308.08769) **Zehan Wang**, Haifeng Huang, Yang Zhao, Ziang Zhang, Zhou Zhao **Arxiv, 2023**
 - LLM for 3D, the frist universal dialogue system for 3D world.
@@ -35,7 +35,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding.](https://arxiv.org/abs/2307.09267) **Zehan Wang**, Haifeng Huang, Yang Zhao, Linjun Li, Xize Cheng, Yichen Zhu, Aoxiong Yin, Zhou Zhao **ICCV 2023**
