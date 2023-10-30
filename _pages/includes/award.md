@@ -7,4 +7,4 @@
 # 💬 Professional Services
 
 - Conference Reviewer: ICCV 2023, ACM-MM 2023，EMNLP2023
-- Assist to Review: NeurIPS 2023, CVPR 2022, CVPR 2023, ACM-MM 2022, SIGIR 2022, TMM, TNNLS
+- Assist to Review: NeurIPS 2023, CVPR 2023, CVPR 2022, ACM-MM 2022, SIGIR 2022, TMM, TNNLS

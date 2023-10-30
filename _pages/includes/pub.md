@@ -1,10 +1,10 @@
 # 📝 Representative Publications 
 ## Mutli-modal Representation Learning
 - Unified Representations: **C-MCR (NeurIPS 2023)**, **Ex-MCR**
-- Audio-Visual Representations: **LiMo**
-- Vision-Language Representations: **DG-NLVL (ACL 2023)**
+- Audio-Video Representations: **LiMo**
+- Visual-Language Representations: **DG-NLVL (ACL 2023)**
 
-## 3D-Language Learning
+## 3D-Language Understanding
 - Large Language Model for 3D: **Chat-3D**
 - 3D Visual Grounding: **3DRP-Net (EMNLP 2023)**, **Weakly supervised 3DVG (ICCV 2023)**
 

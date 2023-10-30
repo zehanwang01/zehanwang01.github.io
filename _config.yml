@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xize Cheng(成曦泽)"
-description              : "Master's Degree at Zhejiang University. Major in Audio-Visual Speech Understanding and Digital Human Synthesis."
-repository               : "Exgc/exgc.github.io"
+title                    : "Zehan Wang"
+description              : "Ph.D Student."
+repository               : "zehanwang01/zehanwang01.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xize Cheng(成曦泽)"
+  name             : "Zehan Wang"
   avatar           : "images/profile.png"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?user=7w1U0l4AAAAJ"
-  email            : "chengxize@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=euXK0lkAAAAJ&hl=zh-CN"
+  email            : "wangzehan01@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Exgc # e.g., "github username"
+  github           : zehanwang01 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
