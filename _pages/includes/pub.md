@@ -1,12 +1,12 @@
 # 📝 Representative Publications 
 ## Mutli-modal Representation Learning
-- Unified Representations: **C-MCR (NeurIPS 2023)**, **Ex-MCR**
+- Unified Representations: **[C-MCR](https://arxiv.org/abs/2305.14381) (NeurIPS 2023)**, **[Ex-MCR](https://arxiv.org/abs/2310.08884)**
 - Audio-Video Representations: **LiMo**
-- Visual-Language Representations: **DG-NLVL (ACL 2023)**
+- Visual-Language Representations: **[DG-NLVL](https://aclanthology.org/2023.findings-acl.11/) (ACL 2023)**
 
 ## 3D-Language Understanding
-- Large Language Model for 3D: **Chat-3D**
-- 3D Visual Grounding: **3DRP-Net (EMNLP 2023)**, **Weakly supervised 3DVG (ICCV 2023)**
+- Large Language Model for 3D: **[Chat-3D](https://arxiv.org/abs/2308.08769)**
+- 3D Visual Grounding: **[3DRP-Net](https://arxiv.org/abs/2307.13363) (EMNLP 2023)**, **[Weakly supervised 3DVG](https://arxiv.org/abs/2307.09267) (ICCV 2023)**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/Ex-MCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -16,7 +16,7 @@
 - **Academic / Industry Impact**: Our code and pre-trained models are released at [![](https://img.shields.io/github/stars/MCR-PEFT/Ex-MCR?style=social&label=Code+Stars)](https://github.com/MCR-PEFT/Ex-MCR), which provides state-of-the-art unified 3D-image-text-audio representations.
 </div>
 </div>
-![img_1.png](img_1.png)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/chat3d.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,6 +46,11 @@
 
 # Full Publication List
 
-## Multi-modal Representation Learning
-
-## 3D-language Understanding
+## 2023
+- [Extending Multi-modal Contrastive Representations.](https://arxiv.org/abs/2310.08884) **Zehan Wang**, Ziang Zhang, Luping Liu, Yang Zhao, Haifeng Huang, Tao Jin, Zhou Zhao. Arxiv, 2023
+- [Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes.](https://arxiv.org/abs/2308.08769) **Zehan Wang**, Haifeng Huang, Yang Zhao, Ziang Zhang, Zhou Zhao. Arxiv, 2023
+- [Connecting Multi-modal Contrastive Representations.](https://arxiv.org/abs/2305.14381) **Zehan Wang**, Yang Zhao, Xize Cheng, Haifeng Huang, Jiageng Liu, Li Tang, Linjun Li, Yongqi Wang, Aoxiong Yin, Ziang Zhang, Zhou Zhao. NeurIPS 2023
+- [Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding.](https://arxiv.org/abs/2307.09267) **Zehan Wang**, Haifeng Huang, Yang Zhao, Linjun Li, Xize Cheng, Yichen Zhu, Aoxiong Yin, Zhou Zhao. ICCV 2023
+- [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition]() Xize Cheng, Tao Jin, Rongjie Huang, Linjun Li, Wang Lin, **Zehan Wang**, Ye Wang, Huadai Liu, Aoxiong Yin, Zhou Zhao. ICCV 2023
+- [3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding]() Zehan Wang, Haifeng Huang, Yang Zhao, Linjun Li, Xize Cheng, Yichen Zhu, Aoxiong Yin, Zhou Zhao. EMNLP 2023
+- [Scene-robust natural language video localization via learning domain-invariant representations]() Zehan Wang, Yang Zhao, Haifeng Huang, Yan Xia, Zhou Zhao. ACL 2023
