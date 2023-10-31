@@ -52,5 +52,5 @@
 - [Connecting Multi-modal Contrastive Representations.](https://arxiv.org/abs/2305.14381) **Zehan Wang**, Yang Zhao, Xize Cheng, Haifeng Huang, Jiageng Liu, Li Tang, Linjun Li, Yongqi Wang, Aoxiong Yin, Ziang Zhang, Zhou Zhao. NeurIPS 2023
 - [Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding.](https://arxiv.org/abs/2307.09267) **Zehan Wang**, Haifeng Huang, Yang Zhao, Linjun Li, Xize Cheng, Yichen Zhu, Aoxiong Yin, Zhou Zhao. ICCV 2023
 - [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition]() Xize Cheng, Tao Jin, Rongjie Huang, Linjun Li, Wang Lin, **Zehan Wang**, Ye Wang, Huadai Liu, Aoxiong Yin, Zhou Zhao. ICCV 2023
-- [3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding]() Zehan Wang, Haifeng Huang, Yang Zhao, Linjun Li, Xize Cheng, Yichen Zhu, Aoxiong Yin, Zhou Zhao. EMNLP 2023
-- [Scene-robust natural language video localization via learning domain-invariant representations]() Zehan Wang, Yang Zhao, Haifeng Huang, Yan Xia, Zhou Zhao. ACL 2023
+- [3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding](https://arxiv.org/abs/2307.13363) **Zehan Wang**, Haifeng Huang, Yang Zhao, Linjun Li, Xize Cheng, Yichen Zhu, Aoxiong Yin, Zhou Zhao. EMNLP 2023
+- [Scene-robust natural language video localization via learning domain-invariant representations](https://aclanthology.org/2023.findings-acl.11/) **Zehan Wang**, Yang Zhao, Haifeng Huang, Yan Xia, Zhou Zhao. ACL 2023
