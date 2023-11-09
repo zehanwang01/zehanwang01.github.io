@@ -4,7 +4,7 @@
 - Audio-Video Representations: **LiMo**
 - Visual-Language Representations: **[DG-NLVL](https://aclanthology.org/2023.findings-acl.11/) (ACL 2023)**
 
-## 3D-Language Understanding
+## Multi-modal LLM & Understanding
 - Large Language Model for 3D: **[Chat-3D](https://arxiv.org/abs/2308.08769)**
 - 3D Visual Grounding: **[3DRP-Net](https://arxiv.org/abs/2307.13363) (EMNLP 2023)**, **[Weakly supervised 3DVG](https://arxiv.org/abs/2307.09267) (ICCV 2023)**
 
