@@ -1,8 +1,14 @@
 
 # About Me
 
-**Zehan Wang (王泽寒)** is a second-year PhD student in the College of Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). Before that, I obtained a Bachelor of Biological System Engineering from Zhejiang University, supervised by [Prof. Haiyan Cen](https://person.zju.edu.cn/chy) and [Prof. Tao Lin](https://person.zju.edu.cn/lintaolab).
+**Zehan Wang (王泽寒)** is a PhD student in the College of Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). 
+I have published 10+ first-author papers at the top international AI conferences such as NeurIPS/ICLR/ICML/CVPR.
+My current research interests broadly span two areas:
 
-My research interests lie broadly in **Multi-modal Learning**, e.g., Multi-modal Representation Learning, Multi-modal Generation and Multi-modal LLM. I have published several first-author papers at the top international AI conferences such as **NeurIPS/ICCV/ACL**.
+1. Unified Multimodal Perception (2D pixels, 3D geometry, language, audio)
 
-**I am actively looking for academic collaboration, feel free to drop me an email.**
+2. Spatial Intelligence in Visual Content (understanding —> generation)
+
+My research is supported by the Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金博士青年基金).
+
+**I am actively seeking collaboration opportunities in both academia and industry — feel free to reach out via email!**

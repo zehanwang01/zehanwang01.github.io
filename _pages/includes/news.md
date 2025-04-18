@@ -1,7 +1,10 @@
 # 🔥 News
-- *2023.10*: 🎉🎉 [Ex-MCR](https://arxiv.org/abs/2310.08884) comes out!
-- *2023.10*: One paper is accepted by EMNLP 2023!
-- *2023.09*: 🎉🎉 [C-MCR](https://arxiv.org/abs/2305.14381) is accepted by NeurIPS 2022!
-- *2023.08*: [Chat-3D](https://arxiv.org/abs/2308.08769) comes out!
-- *2023.06*: Two papers are accepted by ICCV 2023!
-- *2023.05*: One Paper are accepted by ACL 2023!
+- *2025.02*: 2 papers accepted by CVPR 2025! ([SpatialCLIP]())
+- *2025.01*: 6 papers are accepted by ICLR 2025! ([OmniBind](https://arxiv.org/abs/2407.11895))
+- *2024.12*: We release [**Orient Anything**](https://orient-anything.github.io/), the foundation model to estimate object orientation in images.
+- *2024.10*: 6 papers are accepted by NeurIPS 2024! ([Chat-Scene](https://openreview.net/pdf?id=t3BhmwAzhv) and [Ex-MCR](https://proceedings.neurips.cc/paper_files/paper/2024/file/a71df365f872a39e58475f1fa7950879-Paper-Conference.pdf))
+- *2024.05*: 2 papers are accepted by ICML 2024! ([FreeBind](https://arxiv.org/pdf/2405.04883))
+- *2023.10*: 1 paper is accepted by EMNLP 2023! ([3DRP-Net](https://arxiv.org/pdf/2307.13363))
+- *2023.09*: 1 paper is accepted by NeurIPS 2023! ([C-MCR](https://proceedings.neurips.cc/paper_files/paper/2023/file/46362971bfc3a97e6a271f2eb90fba17-Paper-Conference.pdf))
+- *2023.06*: 2 papers are accepted by ICCV 2023! ([WS-3DVG](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Distilling_Coarse-to-Fine_Semantic_Matching_Knowledge_for_Weakly_Supervised_3D_Visual_ICCV_2023_paper.pdf))
+- *2023.05*: 1 paper are accepted by ACL 2023!
