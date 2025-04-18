@@ -21,7 +21,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/spatialCLIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language.]() Zehan Wang, Haifeng Huang, Yang Zhao, Ziang Zhang, Zhou Zhao **CVPR, 2025**
+- [SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language.]() **Zehan Wang**, Sashuai zhou, Shaoxuan He, Haifeng Huang, Lihe Yang, Ziang Zhang, Xize Cheng, Shengpeng Ji, Tao Jin, Hengshuang Zhao, Zhou Zhao **CVPR, 2025**
 - Improving spatial intelligence of MLLM by enhancing the CLIP visual representations.
 </div>
 </div>
@@ -64,7 +64,8 @@
 ## 2025
 - ``Arxiv 2025`` [Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models](https://arxiv.org/pdf/2412.18605?) **Zehan Wang**, Ziang Zhang, Tianyu Pang, Chao Du, Hengshuang Zhao, Zhou Zhao
 - ``Arxiv 2025`` [OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios](https://arxiv.org/pdf/2501.01384) **Zehan Wang**, Haifeng Huang, Yang Zhao, Ziang Zhang, Zhou Zhao
-- ``CVPR 2025`` [SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language.]() **Zehan Wang**, Haifeng Huang, Yang Zhao, Ziang Zhang, Zhou Zhao
+- ``CVPR 2025`` [SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language.]()  **Zehan Wang**, Sashuai zhou, Shaoxuan He, Haifeng Huang, Lihe Yang, Ziang Zhang, Xize Cheng, Shengpeng Ji, Tao Jin, Hengshuang Zhao, Zhou Zhao
+- ``CVPR 2025`` [RoboGround: Robot Manipulation with Grounded Vision-Language Priors] Haifeng Huang, Xinyi Chen, Yilun Chen, Hao Li, Xiaoshen Han, **Zehan Wang**, Tai Wang, Jiangmiao Pang, Zhou Zhao
 - ``NAACL 2025`` [Chat-3d: Data-efficiently tuning large language model for universal dialogue of 3d scenes](https://arxiv.org/pdf/2308.08769) **Zehan Wang**\*, Haifeng Huang\*, Yang Zhao, Ziang Zhang, Zhou Zhao
 - ``WWW 2025`` [EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration](https://arxiv.org/pdf/2502.14735?) Minjie Hong, Yan Xia, **Zehan Wang**, Jieming Zhu, Ye Wang, Sihang Cai, Xiaoda Yang, Quanyu Dai, Zhenhua Dong, Zhimeng Zhang, Zhou Zhao
 - ``ICLR 2025`` [Omnibind: Large-scale omni multimodal representation via binding spaces](https://arxiv.org/pdf/2407.11895?) **Zehan Wang**, Ziang Zhang, Hang Zhang, Luping Liu, Rongjie Huang, Xize Cheng, Hengshuang Zhao, Zhou Zhao
