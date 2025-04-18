@@ -18,7 +18,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/spatialCLIP.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/spatialCLIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language.]() Zehan Wang, Haifeng Huang, Yang Zhao, Ziang Zhang, Zhou Zhao **CVPR, 2025**
@@ -43,7 +43,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.jpeg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [FreeBind: Free Lunch in Unified Multimodal Space via Knowledge Fusion](https://arxiv.org/pdf/2405.04883) **Zehan Wang**, Ziang Zhang, Xize Cheng, Rongjie Huang, Luping Liu, Zhenhui Ye, Haifeng Huang, Yang Zhao, Tao Jin, Peng Gao, Zhou Zhao **ICML 2024**
