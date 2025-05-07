@@ -13,7 +13,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Orient-anything.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models.](https://orient-anything.github.io/) **Zehan Wang**, Ziang Zhang, Tianyu Pang, Chao Du, Hengshuang Zhao, Zhou Zhao **Arxiv, 2025**
+- [Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models.](https://orient-anything.github.io/) **Zehan Wang**, Ziang Zhang, Tianyu Pang, Chao Du, Hengshuang Zhao, Zhou Zhao **ICML, 2025**
 - The first **zero-shot** image-based object orientation estimation model. [![](https://img.shields.io/github/stars/SpatialVision/Orient-Anything?style=social&label=Code+Stars)](https://github.com/SpatialVision/Orient-Anything)
 </div>
 </div>
