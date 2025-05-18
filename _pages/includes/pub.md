@@ -10,7 +10,7 @@
 
 - Spatial-aware Image Generation: **6DoF-Gen (Working on)**, **GenSpace (Working on)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Orient-anything.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/Orient-anything.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models.](https://orient-anything.github.io/) **Zehan Wang**, Ziang Zhang, Tianyu Pang, Chao Du, Hengshuang Zhao, Zhou Zhao **ICML, 2025**
