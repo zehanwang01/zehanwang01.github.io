@@ -10,7 +10,7 @@
 
 - Spatial-aware Image Generation: **6DoF-Gen (Working on)**, **GenSpace (Working on)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/prior_depth.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/prior_depth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Depth Anything with Any Prior.](https://prior-depth-anything.github.io/) **Zehan Wang**, Siyu Chen, Lihe Yang, Jialei Wang, Ziang Zhang, Hengshuang Zhao, Zhou Zhao      **Arxiv, 2025**
