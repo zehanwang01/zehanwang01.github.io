@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.05*: We release [**Prior Depth Anything**](https://prior-depth-anything.github.io/), estimate fine&complete metric depth with coarse&incomplete depth measurement.
 - *2025.05*: 1 paper accepted by ICML 2025! ([Orient Anything](https://orient-anything.github.io/))
 - *2025.02*: 2 papers accepted by CVPR 2025! ([SpatialCLIP]())
 - *2025.01*: 6 papers are accepted by ICLR 2025! ([OmniBind](https://arxiv.org/abs/2407.11895))
