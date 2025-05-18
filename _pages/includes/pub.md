@@ -6,7 +6,7 @@
 
 - Point Cloud Understanding: **Chat-3D (NAACL 2023) / Chat-Scene (NeurIPS 2024)** for 3D MLLM, **3DRP-Net (EMNLP 2023) / WS-3DVG (ICCV 2023)** for 3D visual grounding.
 
-- Spatial-aware Image Understanding: **Orient Anything (Arxiv 2025)**, **SpatialCLIP (CVPR 2025)**
+- Spatial-aware Image Understanding: **Orient Anything (ICML 2025)**, **SpatialCLIP (CVPR 2025)**
 
 - Spatial-aware Image Generation: **6DoF-Gen (Working on)**, **GenSpace (Working on)**
 
